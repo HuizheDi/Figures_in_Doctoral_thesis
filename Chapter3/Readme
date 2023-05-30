@@ -24,3 +24,77 @@ Figure 3-8 Distributions of first-arrival traveltime picks of six lines at the E
 
 图3-9 东太平洋海隆axis2r1与1276P测线初始速度模型测试图
 Figure 3-9 Diagrams of axi2r1 and 1276P initial velocity tests at the EPR
+
+图3-10 东太平洋海隆6条测线反演前后走时残差分布图
+Figure 3-10 Distributions of traveltime residuals of the six lines before and after inversion
+
+图3-11 东太平洋海隆6条测线反演前后走时残差频率分布直方图
+Figure 3-11 Distributions of traveltime residuals of the six lines before and after inversion
+
+图3-12 全波形反演流程图
+Figure 3-12 Workflow of full waveform inversion
+
+图3-13 东太平洋海隆全波形反演使用的震源子波
+Figure 3-13 Data-extracted source wavelets for full waveform inversion at the EPR
+
+图3-14 速度与应力更新的交错有限差分网格
+Figure 3-14 Staggered finite-difference grids for velocity and stress update
+
+图3-15 东太平洋海隆axis2r1测线时间延迟互相关计算结果
+Figure 3-15 Result of timeshift calculation for the axis2r1 using cross-correlation method at the EPR
+
+图3-16 东太平洋海隆axis2r1测线全波形反演时间窗与波形拟合图
+Figure 3-16 Full waveform inversion time window and waveform fitting of the axis2r1 at the EPR
+
+图3-17 东太平洋海隆axis2r1测线全波形反演过程误差泛函下降图
+Figure 3-17 Normalized misfit for each iteration shown in percentage with respect to the initial misfit of the axis2r1 at the EPR
+
+图3-18 东太平洋海隆5条垂直于洋脊轴测线全波形反演过程误差泛函下降图
+Figure 3-18 Normalized misfit for each iteration shown in percentage with respect to the initial misfit of five lines perpendicular to the ridge axis at the EPR
+
+图3-19 东太平洋海隆P波速度模型棋盘分辨率测试
+Figure 3-19 Checkerboard resolution tests for P wave velocity models at the EPR
+
+图3-20 逆时偏移成像流程图
+Figure 3-20 Workflow of the reverse time migration
+
+图3-21 BP速度模型和合成地震数据图
+Figure 3-21 Velocity model and synthetic seismic data of the BP benchmark
+
+图3-22 BP合成地震数据的逆时偏移成像结果
+Figure 3-22 Reverse time migration result of the BP synthetic seismic data
+
+图3-23 东太平洋海隆逆时偏移成像axis2r1测线地震数据处理
+Figure 3-23 Seismic data processing for reverse time migration of the axis2r1 at the EPR
+
+图3-24 用于合成地震数据测试的Penrose模型
+Figure 3-24 The Penrose model used for simulating synthetic seismic data
+
+图3-25 向下延拓过程示意图和Penrose模型合成测试结果
+Figure 3-25 Schematic illustration of the downward continuation process and synthetic test results of the Penrose model
+
+图3-26 用于合成地震数据测试的一维模型
+Figure 3-26 1-D structure models used for simulating synthetic seismic data
+
+图3-27 单梯度模型合成测试结果
+Figure 3-27 Synthetic testing results for one-gradient velocity models
+
+图3-28 东太平洋海隆axis2r1多道反射地震测线位置
+Figure 3-28 Location of the multi-channel seismic line of axis2r1 at the EPR
+
+图3-29 东太平洋海隆地震数据中用于走时拾取的纵波与横波展示
+Figure 3-29 Example shot gathers used for traveltime picking of P and S refractions at the EPR
+
+图3-30 东太平洋海隆S波走时拾取与初始速度模型测试结果
+Figure 3-30 S-wave picking and initial model selection result at the EPR
+
+图3-31 东太平洋海隆S波走时反演前后走时残差分布与频率分布直方图
+Figure 3-31 S-wave traveltime residuals and residual histograms predicted from initial models and traveltime tomography models at the EPR
+
+图3-32 东太平洋海隆S波速度模型不确定性分析
+Figure 3-32 Uncertainty analysis of the S-wave model at the EPR
+
+图3-33 东太平洋海隆S波速度模型棋盘分辨率测试
+Figure 3-33 Checkerboard resolution tests for S wave traveltime tomography at the EPR
+
+
