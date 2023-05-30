@@ -1,0 +1,56 @@
+图4-1 面向东南方向的大西洋中脊Dante's Domes大洋核杂岩透视图
+Figure 4-1 Perspective view of the Dante's Domes oceanic core complex (DDOCC) at Mid-Atlantic Ridge (MAR) looking to the southeast
+
+图4-2 DDOCC多道地震数据预处理前后对比图
+Figure 4-2 Comparisons of seismic data before and after preprocessing at the DDOCC
+
+图4-3 DDOCC测线向下延拓与初至走时拾取示例数据
+Figure 4-3 Representative shot gathers used downward continuation and traveltime picking at the DDOCC
+
+图4-4 DD4测线向下延拓示例数据
+Figure 4-4 Downward continuation shot gather examples from profile DD4
+
+图4-5 DDOCC初至波走时拾取分布图
+Figure 4-5 Distributions of first-arrival traveltime picks at the DDOCC
+
+图4-6 DDOCC走时层析成像初始速度模型测试
+Figure 4-6 Testing of initial velocity models of the traveltime tomography at the DDOCC
+
+图4-7 DDOCC走时层析成像阻尼因子 λ 测试
+Figure 4-7 Testing of damping parameter λ of the traveltime tomography at the DDOCC
+
+图4-8 DDOCC走时层析成像过程中 χ^2  值变化
+Figure 4-8 Variations of misfit function χ2 of the traveltime tomography at the DDOCC
+
+图4-9 DDOCC走时反演前后的走时残差分布图
+Figure 4-9 Testing of damping parameter λ of the traveltime tomography at the DDOCC
+
+图4-10 DDOCC走时层析成像走时残差频率分布直方图
+Figure 4-10 Traveltime residual histograms of the traveltime tomography at the DDOCC
+
+图4-11 DDOCC走时层析成像模型棋盘分辨率测试
+Figure 4-11 Traveltime residual histograms of the traveltime tomography at the DDOCC
+
+图4-12 DDOCC全波形反演的震源子波
+Figure 4-12 Example of data-extracted source wavelet for the full waveform inversion at the DDOCC
+
+图4-13 DDOCC全波形反演数据截取与波形拟合图
+Figure 4-13 Data selection and waveform matching before and after the full waveform inversion at the DDOCC
+
+图4-14 DDOCC全波形反演过程误差泛函的变化
+Figure 4-14 Misfit function variations during the full waveform inversion at the DDOCC
+
+图4-15 DDOCC全波形反演模型棋盘分辨率测试
+Figure 4-15 Checkerboard resolution tests for the full waveform inversion at the DDOC
+
+图4-16 DDOCC全波形反演模型相较于走时层析成像模型的提升
+Figure 4-16 Full waveform inversion updates with respect to traveltime tomography models at the DDOCC
+
+图4-17 DD2测线两个代表的逆时偏移成像数据处理对比图
+Figure 4-17 Two representative shot gathers from DD2 before reverse time migration
+
+图4-18 DDOCC使用走时层析成像模型得到的逆时偏移成像结果
+Figure 4-18 The reverse time migration images derived from traveltime tomography models at the DDOCC
+
+图4-19 DDOCC使用全波形反演型得到的逆时偏移成像结果
+Figure 4-19 The reverse time migration images derived from full waveform inversion models at the DDOCC
